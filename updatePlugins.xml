@@ -1,0 +1,3 @@
+<plugins>
+  <plugin id="com.neulion.android.plugin" url="http://unit:8080/myPlugin.jar" version="1.0"/>
+</plugins>
